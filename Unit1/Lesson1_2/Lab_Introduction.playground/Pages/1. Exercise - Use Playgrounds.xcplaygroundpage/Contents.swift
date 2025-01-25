@@ -10,14 +10,17 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("New Perspective by Noah Kahan")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("Ooh silence is making nostalgic")
+print("Two sizes big your shirt in my apartment")
+print("Oh, we were kids, but that don't make this less hard")
+print("If I could fly I doubt I'd even do it")
+print("I'd probarly get high and crash or something stupid")
+print("You made Ohio feel just like Central Park")
 /*:
 
  _Copyright © 2023 Apple Inc._
