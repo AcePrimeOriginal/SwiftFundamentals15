@@ -10,7 +10,20 @@
  
  For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
  */
+//Number of likes
+var numberOfLikes = 50
 
+//Number of Comments
+var numberOfComments = 25
+
+//Year craeted
+let yearCreated = 2014
+
+//Month Created
+let monthCreated = 12
+
+//Day created
+let dayCraeted = 12
 
 /*:
 [Previous](@previous)  |  page 5 of 10  |  [Next: App Exercise - Fitness Tracker: Constant or Variable?](@next)
