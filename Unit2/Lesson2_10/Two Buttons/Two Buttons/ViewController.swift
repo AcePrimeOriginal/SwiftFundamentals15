@@ -14,6 +14,22 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    
+    @IBOutlet var UILabel: UILabel!
+    
+    
+    @IBOutlet var UITextField: UITextField!
+    
+    
+    
+    @IBAction func setText(_ sender: UIButton) {
+        UILabel.text = UITextField.text
+    }
+    
+    
+    @IBAction func clearText(_ sender: UIButton) {
+        UITextField.text = ""
+        UILabel.text = ""
+    }
 }
 
